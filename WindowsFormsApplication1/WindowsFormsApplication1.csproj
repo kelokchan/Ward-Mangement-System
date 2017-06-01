@@ -99,6 +99,15 @@
     <Content Include="bin\Debug\WindowsFormsApplication1.exe" />
     <Content Include="bin\Debug\WindowsFormsApplication1.pdb" />
     <Content Include="bin\Debug\WindowsFormsApplication1.vshost.exe" />
+    <Content Include="Patients.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Critical_patients.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Nurses.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Release\" />

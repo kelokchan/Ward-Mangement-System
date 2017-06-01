@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPatient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Patient>
+    <Name>Charles</Name>
+    <Gender>Male</Gender>
+    <ID>P0001</ID>
+    <DateOfBirth>1995-06-22T00:00:00</DateOfBirth>
+    <PhoneNo>012345890</PhoneNo>
+    <Email>zzz@abc.com</Email>
+    <Address>Seri Kembangan</Address>
+    <Discharged>false</Discharged>
+    <dayHospitalized>1</dayHospitalized>
+  </Patient>
+  <Patient>
+    <Name>Reborn</Name>
+    <Gender>Male</Gender>
+    <ID>P0002</ID>
+    <DateOfBirth>1934-06-25T00:00:00</DateOfBirth>
+    <PhoneNo>123</PhoneNo>
+    <Email>54</Email>
+    <Address>212</Address>
+    <Discharged>false</Discharged>
+    <dayHospitalized>2</dayHospitalized>
+  </Patient>
+  <Patient>
+    <Name>BoCha</Name>
+    <Gender>Female</Gender>
+    <ID>P0003</ID>
+    <DateOfBirth>1995-06-06T00:00:00</DateOfBirth>
+    <PhoneNo>1234</PhoneNo>
+    <Email>fvg</Email>
+    <Address>here</Address>
+    <Discharged>false</Discharged>
+    <dayHospitalized>3</dayHospitalized>
+  </Patient>
+</ArrayOfPatient>

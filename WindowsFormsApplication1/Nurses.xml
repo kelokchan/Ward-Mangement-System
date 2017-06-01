@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNurse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nurse>
+    <Name>Michelle</Name>
+    <Gender>Female</Gender>
+    <ID>N0001</ID>
+    <DateOfBirth>1995-06-22T00:00:00</DateOfBirth>
+    <PhoneNo>sadf</PhoneNo>
+    <Email>asdf</Email>
+    <Address>asdf</Address>
+    <Rank>3</Rank>
+  </Nurse>
+  <Nurse>
+    <Name>Ive</Name>
+    <Gender>Male</Gender>
+    <ID>N0002</ID>
+    <DateOfBirth>1978-05-02T00:00:00</DateOfBirth>
+    <PhoneNo>123131</PhoneNo>
+    <Email>13131313</Email>
+    <Address>123123</Address>
+    <Rank>1</Rank>
+  </Nurse>
+  <Nurse>
+    <Name>Marques</Name>
+    <Gender>Male</Gender>
+    <ID>N0003</ID>
+    <DateOfBirth>1985-07-25T00:00:00</DateOfBirth>
+    <PhoneNo>123</PhoneNo>
+    <Email>456</Email>
+    <Address>TPM</Address>
+    <Rank>5</Rank>
+  </Nurse>
+  <Nurse>
+    <Name>Steve</Name>
+    <Gender>Male</Gender>
+    <ID>N0004</ID>
+    <DateOfBirth>1989-06-23T00:00:00</DateOfBirth>
+    <PhoneNo>123</PhoneNo>
+    <Email>123</Email>
+    <Address>123</Address>
+    <Rank>2</Rank>
+  </Nurse>
+</ArrayOfNurse>
